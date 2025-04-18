@@ -10,6 +10,6 @@ Tecnologias que estou aprendendo:
 - APIs REST
 - Git e GitHub
 
-### 📫 Contato:
+### Contato:
 - [LinkedIn](https://linkedin.com/in/arthur-carvalho-bandeira-de-melo)
 - E-mail: carvalhocbdm@gmail.com
